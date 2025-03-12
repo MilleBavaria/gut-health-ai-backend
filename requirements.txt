@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+requests
+pydantic
+aiohttp
+python-dotenvc

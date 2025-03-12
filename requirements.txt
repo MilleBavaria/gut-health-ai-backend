@@ -4,4 +4,4 @@ openai
 requests
 pydantic
 aiohttp
-python-dotenvc
+python-dotenv
